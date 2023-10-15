@@ -28,7 +28,7 @@ The project comprises the following key functionalities:
 
 To use this project, follow these installation steps:
 
-1. Clone the project from the GitHub repository: `https://github.com/your-repo/project-name.git`
+1. Clone the project from the GitHub repository: `gh repo clone Sazz-Sharma/Face_Attendance_Using_DeepFace`
 
 2. Navigate to the project directory using your terminal or command prompt.
 
